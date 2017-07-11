@@ -1,5 +1,8 @@
 #  Infinite Metaverse Alliance
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3b131ed10bd3463babe0d71739dcc609)](https://www.codacy.com/app/InfiniteMetaverseAlliance_Codacity/WhiteCore-Dev?utm_source=github.com&utm_medium=referral&utm_content=IMA-DZ/WhiteCore-Dev&utm_campaign=badger)
+
+
 This is a testing branch of the WhiteCoreSim/WhiteCore-Dev repository
 It should be considered   UNSTABLE
 
