@@ -1,4 +1,11 @@
-# WhiteCore Sim
+#  Infinite Metaverse Alliance
+
+This is a testing branch of the WhiteCoreSim/WhiteCore-Dev repository
+It should be considered   UNSTABLE
+
+Build and Codacity Badges are  NOT representative of the master repo
+
+# WhiteCore Sim test repo
 
 The WhiteCore Development Team has moved the original Aurora virtual world server, derived from the OpenSim project, to a new level.
 
@@ -8,9 +15,7 @@ There is a heavy emphasis on supporting all users, increased technology focus an
 
 ## Build Status
 
-Windows .Net 4.5 [![Build status](https://ci.appveyor.com/api/projects/status/tj3pr2xb4rg6ospe/branch/master?svg=true)](https://ci.appveyor.com/project/fly-man-/whitecore-dev/branch/master)
 
-Linux 64 Bit [![Build Status](https://travis-ci.org/WhiteCoreSim/WhiteCore-Dev.svg?branch=master)](https://travis-ci.org/WhiteCoreSim/WhiteCore-Dev)
 
 *NOTES:*
 
