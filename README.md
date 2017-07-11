@@ -3,9 +3,13 @@
 This is a testing branch of the WhiteCoreSim/WhiteCore-Dev repository
 It should be considered   UNSTABLE
 
+
+
 Build and Codacity Badges are  NOT representative of the master repo
 
-# WhiteCore Sim test repo
+(The rest of this document  is  a snapshot of the README file when the repo was cloned.   It is not a live document  )
+
+# WhiteCore Sim test repo  README   
 
 The WhiteCore Development Team has moved the original Aurora virtual world server, derived from the OpenSim project, to a new level.
 
